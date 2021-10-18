@@ -1,0 +1,1 @@
+En este ejemplo desarrollé una aplicación de escritorio conectada a mysql como base de datos, usando conceptos como Nodejs, y process de Electron, también implementé  bibliotecas de css como Bootstrap y animate para desarrollar nuestra interfaz.
